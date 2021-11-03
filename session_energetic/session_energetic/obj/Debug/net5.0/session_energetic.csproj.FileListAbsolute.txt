@@ -1,0 +1,16 @@
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\bin\Debug\net5.0\session_energetic.exe
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\bin\Debug\net5.0\session_energetic.deps.json
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\bin\Debug\net5.0\session_energetic.runtimeconfig.json
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\bin\Debug\net5.0\session_energetic.runtimeconfig.dev.json
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\bin\Debug\net5.0\session_energetic.dll
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\bin\Debug\net5.0\ref\session_energetic.dll
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\bin\Debug\net5.0\session_energetic.pdb
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\obj\Debug\net5.0\session_energetic.csproj.AssemblyReference.cache
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\obj\Debug\net5.0\session_energetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\obj\Debug\net5.0\session_energetic.AssemblyInfoInputs.cache
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\obj\Debug\net5.0\session_energetic.AssemblyInfo.cs
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\obj\Debug\net5.0\session_energetic.csproj.CoreCompileInputs.cache
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\obj\Debug\net5.0\session_energetic.dll
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\obj\Debug\net5.0\ref\session_energetic.dll
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\obj\Debug\net5.0\session_energetic.pdb
+C:\Users\Spiczi\Desktop\projects\session_energetic\session_energetic\obj\Debug\net5.0\session_energetic.genruntimeconfig.cache
